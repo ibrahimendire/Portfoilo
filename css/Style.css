@@ -19,7 +19,7 @@ img{
    
 }
 a{
-    color: #ffe66d;
+    color: #070be9;
 }
 a:hover{
     text-decoration: none;
@@ -73,7 +73,7 @@ header{
     ---------------------------------------
 */
 .project{
-    background: #f7f7f7;
+    background: #b8c5b6;
 }
 .project a{
     color: #2f3061;
@@ -125,7 +125,7 @@ header{
     ---------------------------------------
 */
 footer{
-    background: #343434;
+    background: #b8bbae;
     color: #f7fff7;
     
 }
